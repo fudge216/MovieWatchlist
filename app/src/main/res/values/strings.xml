@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">movie_watchlist</string>
+    <string name="title_home">Home</string>
+    <string name="title_watchlist">Watchlist</string>
+    <string name="title_search">Search</string>
+    <string name="welcome_message">Welcome to your watchlist!</string>
+    <string name="new_movie_list">Select "search" to find details about a movie then select the "Add to watch list" button to add them to you to your watchlist. Once added you can view your list and remove movies once you have watched them. </string>
+   <string name="searchtxt">Search for a movie to add to your watchlist</string>
+    <string name="resultsbtntxt">Click here for results</string>
+    <string name="search_info_list">Your info will appear here</string>
+    <id name="Welcome"></id>
+    <id name="new_movies"></id>
+    <id name="search_info"/>
+    <id name="resultsBtn"/>
+    <id name="movie_poster"/>
+</resources>
